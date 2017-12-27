@@ -9,7 +9,7 @@ https://storage.googleapis.com/chromium-browser-snapshots/Linux_x64/524617/chrom
 
 
 【首先nodejs、npm】
-安装nodejs、npm（node官网的centos版教程，其他请看这里 -》 https://nodejs.org/en/download/package-manager/）
+安装nodejs、npm（node官网的centos版教程 https://nodejs.org/en/download/package-manager/）
 curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
 sudo yum -y install nodejs
 
