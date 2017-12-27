@@ -29,6 +29,3 @@ yum install -y pango.x86_64 libXcomposite.x86_64 libXcursor.x86_64 libXdamage.x8
 
 【centos】写代码时记住添加参数 const browser = await puppeteer.launch({ args: ['--no-sandbox', '--disable-setuid-sandbox'] });
 
-
-
-【话说上面你一步不能少，初学者别】
