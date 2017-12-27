@@ -1,8 +1,11 @@
-# chrome-linux.zip
+# chrome-linux.zip【524617】
 
 puppeteer对应chromium版本524617（现在是2017.12.27）
-查看版本在这里 -》 https://github.com/GoogleChrome/puppeteer/blob/master/package.json
-下载地址在这里 -》 https://storage.googleapis.com/chromium-browser-snapshots/Linux_x64/524617/chrome-linux.zip
+
+查看版本在这里 
+https://github.com/GoogleChrome/puppeteer/blob/master/package.json
+下载地址在这里 
+https://storage.googleapis.com/chromium-browser-snapshots/Linux_x64/524617/chrome-linux.zip
 
 
 【首先nodejs、npm】
